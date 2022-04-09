@@ -1,0 +1,15 @@
+{
+	"accept": "application/json",
+	"accept-encoding": "gzip",
+	"access-control-allow-credentials":"true",
+	"appversion":"5.9.0",
+	"connection":"Keep-Alive",
+	"host":"api.zepto.co.in",
+	"platform":"android",
+	"sessionid":"undefined",
+	"source":"PLAY_STORE",
+	"systemversion":"8.0.0",
+	"user-agent":"okhttp/3.12.12",
+	"x-requested-with":"XMLHttpRequest"
+}
+
