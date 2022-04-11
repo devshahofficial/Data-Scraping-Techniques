@@ -1,0 +1,20 @@
+{
+    "accept-encoding":"gzip",
+    "connection":"Keep-Alive",
+    "host":"api.pharmeasy.in",
+    "user-agent":"okhttp/5.0.0-alpha.2",
+    "x-ab-experiments":"/i17ImV4cGVyaW1lbnRzIjpbeyJpZCI6IkEiLCJuYW1lIjoicmVjb19kc191c2VycHJvZmlsZXJfdjMifSwsAP8Eb3RjX2ZidF9mYWxsYmFja192MSgAAjJtZWQoAD1lZWQoABZCfAAEKABWNTBfNTBKAAciAARyAAsiAAfAAAREAEc4MF8yRAAHIgAERAAPIgAPJnY0hQAHQQAEYwAPHwAEBGAAL3Y0pwAIQGNhcnQ7AU81Xzk1ZQACBCEARzIwXzjIAAcMAQAiAAFXAQ9mAAcEiwA/OTVfZgAHAUQALGRzrQAHagBAaG9tZRQCD2kABwQTAT9jdnTOAAJRZGlhZ19HAA8jAgQEqgAfcEAAAwDsAAAvAfcDZGlzYWJsZV9ib29zdF85MF8xHAEWS0oC8ANzaWxpY29uX2V4cF81OCJ9XX0=",
+    "x-advertising-id":"dd0a9452-57ad-46b6-93c4-9849902296b6",
+    "x-api-auth":"u_w4vNCETkFrNXF_k7ZNeSrNoEb0xBIbjlzX6mZvCvOljEwOTKr-6gZg8RfvflihsT9UIxP1G1nZqgejoTP5Fg",
+    "x-app-version":"4.10.30",
+    "x-appsflyer-id":"1649179061574-5803997940400392897",
+    "x-default-city":"1",
+    "x-device-id":"c5d9ac77018832cb",
+    "x-firebase-app-instance-id":"ac56f706e9045392a64bb60d7c4e8bae",
+    "x-is-default-network-pincode":"no",
+    "x-os-version":"8.0.0",
+    "x-phone-manufacturer":"unknown Google Nexus 5",
+    "x-phone-platform":"android",
+    "x-pincode":"400070",
+    "x-session-id":"s_a_c5d9ac77018832cb_6b6a764b-dbcb-415a-8b04-843eafc1358d"
+}
